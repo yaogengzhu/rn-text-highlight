@@ -1,0 +1,23 @@
+{
+  "name": "rn-text-highlight",
+  "version": "1.0.0",
+  "description": "react-naitve-highlight component",
+  "main": "index.js",
+  "keywords": [
+    "react",
+    "native",
+    "highlight",
+    "text"
+  ],
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaogengzhu/rn-text-highlight.git"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org"
+  }, 
+  "author": "yaogengzhu",
+  "license": "MIT",
+  "dependencies": {}
+}
