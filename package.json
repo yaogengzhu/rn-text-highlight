@@ -1,6 +1,6 @@
 {
   "name": "rn-text-highlight",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "react-naitve-highlight component",
   "main": "index.js",
   "keywords": [
@@ -16,7 +16,7 @@
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org"
-  }, 
+  },
   "author": "yaogengzhu",
   "license": "MIT",
   "dependencies": {}
