@@ -12,6 +12,9 @@ npm i rn-text-highlight
 <RnTextHighlight originText={employeeName} keyword={keyword} />
 ```
 
+## demo gif
+<img src="./.github/images/texthighlight.gif" />
+
 ## Available props
 
 | Name         | Type     | Default         | Description      |
