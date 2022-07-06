@@ -14,7 +14,7 @@
     "text"
   ],
   "scripts": {
-    "gulp": "gulp",
+    "build": "gulp",
     "publish": "npm publish ./lib"
   },
   "repository": {
