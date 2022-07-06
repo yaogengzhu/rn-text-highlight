@@ -1,6 +1,6 @@
 {
   "name": "rn-text-highlight",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react-naitve-highlight component",
   "main": "./cjs/index.js",
   "module": "./es/index.js",
